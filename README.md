@@ -16,3 +16,4 @@ migration.py
 
 * [Tableau](http://www.tableau.com) - Data visualization framework used
 * [Viz for Social Good](http://www.vizforsocialgood.com) - Visualization community promoting social good projects
+* [JupyterLab](http://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html) - Jupyter's beta-version of JupyterLab
